@@ -1,0 +1,10 @@
+Algorithm PA#2
+Author: 賴弋元 b10502163
+======
+HOW TO CIMPILE:
+
+    make clean 
+	make
+======
+HOW TO RUN:
+    ./bin/mps <input_file_name> <output_file_name>
